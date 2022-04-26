@@ -1,11 +1,12 @@
-import { useState } from "react";
+// import { useState } from "react";
+import { Comments } from "./components";
 
 function App() {
 
   return (
-    <section className="comments">
-      Beginning
-    </section>
+    <main className="main">
+      <Comments />
+    </main>
   );
 }
 
