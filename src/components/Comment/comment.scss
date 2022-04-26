@@ -1,0 +1,29 @@
+.comment {
+  display: flex;
+  background: white;
+  padding: 1rem;
+  &__score {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    background: var(--background);
+    padding: 1rem;
+    border-radius: .3rem;
+
+    &-count {
+      color: var(--clr-action);
+      font-weight: 700;
+    }
+  }
+
+  &__icon {
+    width: max-content;
+    fill: var(--clr-action-light);
+    padding: 1rem;
+    &:hover {
+      cursor: pointer;
+    }
+    
+  }
+}
