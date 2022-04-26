@@ -1,2 +1,5 @@
-# FM--interactive-comments-section
- A Frontend Mentor's challenge
+# Frontend Mentor - Interactive comments section
+
+![Design preview for the Interactive comments section coding challenge](./design/desktop-preview.jpg)
+
+Challenge from Frontend Mentor.
