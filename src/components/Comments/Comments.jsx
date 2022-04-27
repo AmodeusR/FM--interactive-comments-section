@@ -7,7 +7,6 @@ const Comments = () => {
   return (
     <div className="comments">
       <Comment />
-      
     </div>
   );
 };
